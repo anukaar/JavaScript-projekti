@@ -1,3 +1,3 @@
 # JavaScript-projekti
 
-Web Software Development 2 -kurssin projekti
+WSD 2 -kurssin projekti
